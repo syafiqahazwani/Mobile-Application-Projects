@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327740293142",
+    "project_id": "fasst-movier",
+    "storage_bucket": "fasst-movier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327740293142:android:77ad5a7702dd1058e1b537",
+        "android_client_info": {
+          "package_name": "com.example.fasst_movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApNQhvtoc6mrmbQooNTeL9Dvz-b3HJHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927190159952",
+    "project_id": "fasstappcoffee0",
+    "storage_bucket": "fasstappcoffee0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927190159952:android:7cfa6b69e0dd47d8847755",
+        "android_client_info": {
+          "package_name": "com.example.fasstappcoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaySGA2FX5C7-1GJIfyfbqMEBKziTGAUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

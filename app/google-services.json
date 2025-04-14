@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107177354439",
+    "project_id": "fasstappbookingtic0",
+    "storage_bucket": "fasstappbookingtic0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107177354439:android:fed567edb8d3747ae28ae2",
+        "android_client_info": {
+          "package_name": "com.example.fasstappbookingtic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwptXKVOOHP6cHStO8EcRB7_G9-Off0mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

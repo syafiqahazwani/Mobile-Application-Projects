@@ -9,4 +9,4 @@ Project-6-food-application<br>
 Project-7-order-application<br>
 Project-8-ticket-booking-application<br>
 Project-9-weather-application<br>
-Project-10-crypto-application<br>
+Project-10-banking-application<br>

@@ -12,6 +12,11 @@ Mobile Application Projects
 
 --------------------------------------------------------
 
+Mobile Application Setup
+1. Using Android Studio
+
+-------------------------------------------------------
+
 Using Git
 1. git init
 2. git remote add origin https://github.com/xxx.git

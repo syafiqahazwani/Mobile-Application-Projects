@@ -7,8 +7,8 @@ Mobile Application Projects
 4. Project 4 : TV Shows App (Using Java, Database: Firebase)
 5. Project 5 : Quiz App (Using Kotlin, Frontend)
 6. Project 6 : Food App (Using Kotlin, Frontend)
-7. Project 7 : Ticket App (Using Kotlin, Frontend)
-8. Project 8 : Quiz App (Using Kotlin, Frontend)
+7. Project 7 : Ticket Booking App (Using Kotlin, Frontend)
+8. Project 8 : Weather App (Using Kotlin, Frontend)
 
 --------------------------------------------------------
 

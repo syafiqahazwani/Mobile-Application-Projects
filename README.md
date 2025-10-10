@@ -15,6 +15,7 @@ Mobile Application Projects
 
 Mobile Application Setup
 1. Using Android Studio
+2. Add dependencies first
 
 -------------------------------------------------------
 

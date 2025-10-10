@@ -9,6 +9,7 @@ Mobile Application Projects
 6. Project 6 : Food App (Using Kotlin, Frontend)
 7. Project 7 : Ticket Booking App (Using Kotlin, Frontend)
 8. Project 8 : Weather App (Using Kotlin, Frontend)
+9. Project 9 : Translate App (Using Java, Frontend)
 
 --------------------------------------------------------
 
